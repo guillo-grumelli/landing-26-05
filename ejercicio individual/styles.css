@@ -1,0 +1,73 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+
+
+.todo{
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 30%;
+}
+
+h1{
+    font-family: 'Red Hat Display', sans-serif;
+    text-align: center;
+    
+}
+
+h3{
+    font-family: 'Red Hat Display', sans-serif; 
+    text-align: center;
+    text-decoration: dimgray;
+}
+
+
+h4{
+    font-family: 'Red Hat Display', sans-serif;
+
+}
+
+.anual{
+    background-color: darkgray;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 20px;
+    margin-right: 20px;
+    border-radius: 30px;
+    text-align: center;
+    
+} 
+
+ul{
+    font-family: 'Red Hat Display', sans-serif;
+}
+
+.boton1{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    border-radius: 30px;
+    background-color: blueviolet;
+    text-decoration: snow;
+    font-family: 'Red Hat Display', sans-serif;
+    
+}
+
+button{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    border-radius: 30px;
+    font-family: 'Red Hat Display', sans-serif;
+}
